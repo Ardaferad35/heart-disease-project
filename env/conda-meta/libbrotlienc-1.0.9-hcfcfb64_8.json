@@ -1,0 +1,62 @@
+{
+  "name": "libbrotlienc",
+  "version": "1.0.9",
+  "build": "hcfcfb64_8",
+  "build_number": 8,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "win-64",
+  "fn": "libbrotlienc-1.0.9-hcfcfb64_8.tar.bz2",
+  "md5": "88e62627120c20289bf8982b15e0a6a1",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libbrotlienc-1.0.9-hcfcfb64_8.tar.bz2",
+  "sha256": "3abf0f0b124d54ad892bd74fe77089a712d6dad81a04583331a58728c58a69e0",
+  "depends": [
+    "libbrotlicommon 1.0.9 hcfcfb64_8",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vs2015_runtime >=14.29.30139"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1666788910000,
+  "size": 741758,
+  "requested_spec": "libbrotlienc==1.0.9=hcfcfb64_8",
+  "package_tarball_full_path": "C:\\Users\\ardaf\\miniconda3\\pkgs\\libbrotlienc-1.0.9-hcfcfb64_8.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ardaf\\miniconda3\\pkgs\\libbrotlienc-1.0.9-hcfcfb64_8",
+  "files": [
+    "Library/bin/brotlienc.dll",
+    "Library/lib/brotlienc.lib",
+    "Library/lib/pkgconfig/libbrotlienc.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/brotlienc.dll",
+        "path_type": "hardlink",
+        "sha256": "7a1086e6be6d204655bb2ccae92e248cf211fa7f16703f9bfaecdd8e4ff4c791",
+        "size_in_bytes": 3082240,
+        "sha256_in_prefix": "7a1086e6be6d204655bb2ccae92e248cf211fa7f16703f9bfaecdd8e4ff4c791"
+      },
+      {
+        "_path": "Library/lib/brotlienc.lib",
+        "path_type": "hardlink",
+        "sha256": "03ef9a0e31e28b48a45bc52d71a33f7320fbce8e47062701364bd383f1536277",
+        "size_in_bytes": 4082,
+        "sha256_in_prefix": "03ef9a0e31e28b48a45bc52d71a33f7320fbce8e47062701364bd383f1536277"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libbrotlienc.pc",
+        "prefix_placeholder": "D:/bld/brotli-split_1666788538925/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "58de6174943a8423b852626cf14aeb956ab8907e4d0d6300e4327b389e6f4ade",
+        "size_in_bytes": 385,
+        "sha256_in_prefix": "88a6b4a5f878eece4f04cb987de307f0acce4465b7036820219d0f15a49d78fa"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ardaf\\miniconda3\\pkgs\\libbrotlienc-1.0.9-hcfcfb64_8",
+    "type": 1
+  }
+}

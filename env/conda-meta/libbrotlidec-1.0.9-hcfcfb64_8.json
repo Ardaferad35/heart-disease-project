@@ -1,0 +1,62 @@
+{
+  "name": "libbrotlidec",
+  "version": "1.0.9",
+  "build": "hcfcfb64_8",
+  "build_number": 8,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "win-64",
+  "fn": "libbrotlidec-1.0.9-hcfcfb64_8.tar.bz2",
+  "md5": "99839d9d81f33afa173c0fa82a702038",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libbrotlidec-1.0.9-hcfcfb64_8.tar.bz2",
+  "sha256": "66814b8c0235bcc9124d32cb4b99845bcb2af0eba1d2ba609a501a6d8194e9a0",
+  "depends": [
+    "libbrotlicommon 1.0.9 hcfcfb64_8",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vs2015_runtime >=14.29.30139"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1666788869000,
+  "size": 34744,
+  "requested_spec": "libbrotlidec==1.0.9=hcfcfb64_8",
+  "package_tarball_full_path": "C:\\Users\\ardaf\\miniconda3\\pkgs\\libbrotlidec-1.0.9-hcfcfb64_8.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\ardaf\\miniconda3\\pkgs\\libbrotlidec-1.0.9-hcfcfb64_8",
+  "files": [
+    "Library/bin/brotlidec.dll",
+    "Library/lib/brotlidec.lib",
+    "Library/lib/pkgconfig/libbrotlidec.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/brotlidec.dll",
+        "path_type": "hardlink",
+        "sha256": "591dc0f1983a85f07dc8269d8e7574eed79ea32806d9fff68c9f0d9bd943a56d",
+        "size_in_bytes": 47104,
+        "sha256_in_prefix": "591dc0f1983a85f07dc8269d8e7574eed79ea32806d9fff68c9f0d9bd943a56d"
+      },
+      {
+        "_path": "Library/lib/brotlidec.lib",
+        "path_type": "hardlink",
+        "sha256": "578dc1ad1fb2cd157c296d0065b481c74b9aaeebdc869de6237966f890b62b74",
+        "size_in_bytes": 4546,
+        "sha256_in_prefix": "578dc1ad1fb2cd157c296d0065b481c74b9aaeebdc869de6237966f890b62b74"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libbrotlidec.pc",
+        "prefix_placeholder": "D:/bld/brotli-split_1666788538925/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "ef861105583e7c0de511e9e79e028f2dc593e5dadcb9aa311219356342750254",
+        "size_in_bytes": 385,
+        "sha256_in_prefix": "46bb52170c26ed27363d7c9a25440338c3a271d7853fd274c5c8b45720fcc555"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ardaf\\miniconda3\\pkgs\\libbrotlidec-1.0.9-hcfcfb64_8",
+    "type": 1
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "et_xmlfile",
+  "version": "1.1.0",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "et_xmlfile-1.1.0-py313haa95532_1.conda",
+  "md5": "bea76ddb776ad05209f03646b1233f87",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/et_xmlfile-1.1.0-py313haa95532_1.conda",
+  "sha256": "2cdd7a450a3ab16454cdec2ad097a0d7dc45080c68d3fdd842f263e174b4efa6",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT AND PSF-2.0",
+  "timestamp": 1729053989000,
+  "size": 13387,
+  "requested_spec": "et_xmlfile==1.1.0=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\ardaf\\miniconda3\\pkgs\\et_xmlfile-1.1.0-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\ardaf\\miniconda3\\pkgs\\et_xmlfile-1.1.0-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/et_xmlfile/__init__.py",
+    "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-313.pyc",
+    "Lib/site-packages/et_xmlfile/xmlfile.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5be168d7fcae4ad781ea088a08d667f06a6cab715e62d94854bf43915acfb2a0",
+        "size_in_bytes": 1791,
+        "sha256_in_prefix": "5be168d7fcae4ad781ea088a08d667f06a6cab715e62d94854bf43915acfb2a0"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "987fded4d2cde47338733036fa3420d45c9f4295a3b2f8e4226e8435f59ce449",
+        "size_in_bytes": 854,
+        "sha256_in_prefix": "987fded4d2cde47338733036fa3420d45c9f4295a3b2f8e4226e8435f59ce449"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "195f5a3138703ffe28342b6f102d9e737a9462eb6059e033925ae8ff49b85894",
+        "size_in_bytes": 91,
+        "sha256_in_prefix": "195f5a3138703ffe28342b6f102d9e737a9462eb6059e033925ae8ff49b85894"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f8d55ef2ddd6f0e4370510ea36590d2cf8b22956f4bb132ce2807006b88cfd66",
+        "size_in_bytes": 118,
+        "sha256_in_prefix": "f8d55ef2ddd6f0e4370510ea36590d2cf8b22956f4bb132ce2807006b88cfd66"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "df8fbbe1de4d3404604ec3f108cb5ae68dbc5e904d992374882661b66c76164f",
+        "size_in_bytes": 11,
+        "sha256_in_prefix": "df8fbbe1de4d3404604ec3f108cb5ae68dbc5e904d992374882661b66c76164f"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fa84cac04eaea481b680e9a739ce0a2e057ea4a6c1c32fb38507e2cdb982aee4",
+        "size_in_bytes": 269,
+        "sha256_in_prefix": "fa84cac04eaea481b680e9a739ce0a2e057ea4a6c1c32fb38507e2cdb982aee4"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "8320a64e852d5bf812646dd78ea7aa7bc426a7d8edd9bb5fbb7a5e9c26ca1949",
+        "size_in_bytes": 450,
+        "sha256_in_prefix": "8320a64e852d5bf812646dd78ea7aa7bc426a7d8edd9bb5fbb7a5e9c26ca1949"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-313.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8808bd89daac0ec545e127078f46ffdb71ef8a1721e89772e10a51032d9ad90",
+        "size_in_bytes": 4815,
+        "sha256_in_prefix": "b8808bd89daac0ec545e127078f46ffdb71ef8a1721e89772e10a51032d9ad90"
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/xmlfile.py",
+        "path_type": "hardlink",
+        "sha256": "fe1db44516f7a6d0d9eb15e8c4c53f5abc7cac6e9466c8344d2ec710eae8b738",
+        "size_in_bytes": 3204,
+        "sha256_in_prefix": "fe1db44516f7a6d0d9eb15e8c4c53f5abc7cac6e9466c8344d2ec710eae8b738"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\ardaf\\miniconda3\\pkgs\\et_xmlfile-1.1.0-py313haa95532_1",
+    "type": 1
+  }
+}
